@@ -12,3 +12,7 @@ print(a)
 
 s = math.sin(30)
 print(s)
+
+
+x = 13
+print(x)
